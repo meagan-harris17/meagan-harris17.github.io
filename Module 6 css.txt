@@ -1,0 +1,29 @@
+Module 6 css
+div {
+    border-radius: 5px;
+}
+#header {
+    height: 60px;
+    width: 97.5px;
+    background-color: #668284;
+    position: fixed;
+    z-index: 1;
+}
+.left {
+    height: 400px;
+    width: 10%;
+    background-color: #B9D7D9;
+    float: left;
+}
+.right {
+    height: 400px;
+    width: 88%;
+    background-color: #F4EBC3;
+    float: right;
+}
+#footer {
+    height: 50px;
+    width: 97px;
+    background-color: #668284;
+    clear: both;
+}

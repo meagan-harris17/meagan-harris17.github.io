@@ -1,0 +1,34 @@
+Module 2 html
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Meagan Harris</title>
+	</head>
+	<body>
+	    <img src="https://img.clipartfest.com/22abb58e01ac4da793058670f5816cc7_open-book-line-drawing-open-book-drawing_551-487.jpeg"/>
+	    <p style="font-family: Arial; font-size: 30px; color:yellow"><em>26</em>,<em>female</em>,<em>Jourdanton</em></p>
+	    <ul>
+	        <li><strong>Interests</stong></li>
+	           <ul>
+	              <li>English</li>
+	              <li>Digital Journalism</li>
+	            </ul>
+	        <li><strong>Jobs</strong></li>
+	               <li>Radiology Tech</li>
+	               <li>Health Science Educator</li>
+	            </ol>
+	       <li><strong>Favorite Quotes</strong></li>
+	             <ul>
+	                <li>I don't do quotes</li>
+	                <li>Nope</li>
+	             </ul>
+	       <li><strong>Where I've Lived</strong></li>
+	           <ul>
+	                 <li>Jourdanton</li>
+	                 <li>Ranch</li>
+	                 <li>Corpus Christi</li>
+	              </ul>
+	           
+	</body>
+</html>
